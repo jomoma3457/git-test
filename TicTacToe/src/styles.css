@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  background: darkslategray;
+}
+.square {
+  width: 100px;
+  height: 100px;
+  font-family: Helvetica, sans-serif;
+  font-size: medium;
+  color: darkkhaki;
+  background-color: black;
+}
+
+.board-row {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#history {
+  background-color: black;
+  color: darkkhaki;
+}

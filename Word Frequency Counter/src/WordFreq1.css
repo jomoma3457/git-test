@@ -1,0 +1,12 @@
+.res-section {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  border: 1px solid slategrey;
+  margin-top: 20px;
+  color: skyblue;
+  background-color: slateblue;
+}
+
+.grid-item {
+  margin: 10px;
+}
